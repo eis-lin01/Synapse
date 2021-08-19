@@ -3,7 +3,7 @@
 
 To enable your workspace to orchstrate activities that require reading or writing data in an ADLSGEN2 account, your workspace MSI must be assigned the **Storage Blob Data Contributor** role on the ADLSGEN2 account or a specific container in that account. This code automates that process for you.
 
-## You'll need to collect this information
+##### You'll need to collect this information
 
 ```
 $wsname = "name of your workspace"
